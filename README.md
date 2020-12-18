@@ -8,6 +8,7 @@
 	<ul>
 		<li>Bolo de Chocolate</li>
 		<li>Pavê</li>
+		<li>Pizza</li>
 	</ul>
 
 </body>
